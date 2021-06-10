@@ -1,0 +1,17 @@
+
+
+nav{
+    margin-top:5%;
+    margin-right: 15%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    background-color: f3f3f3;
+}
+
+a{
+    padding-top: 15%;
+    margin: 5%;
+    text-decoration: none;
+}
